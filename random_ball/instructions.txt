@@ -1,0 +1,5 @@
+This is a random ball generating graphics created with the help of python and openGL functions only. 
+In file Instructions:
+1. Right clicking on any part of the window generates a ball of random color of random movement in any direction.
+2. Left clicking on any part of the window make the balls blink, and again doing so stop the balls from blinking.
+3. Pressing the space bar pauses the movement and also blinking if initiated, and again doing so the vice versa happens.

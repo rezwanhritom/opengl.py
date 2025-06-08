@@ -1,0 +1,6 @@
+This is a scenario of house under rainfall graphics created with the help of python and openGL functions only. 
+In file Instructions:
+1. Pressing the right arrow key shifts the rain towards the right side.
+2. Pressing the left arrow key shifts the rain towards the left side.
+3. Pressing the 'd' key gradually shifts the theme towards day scene.
+4. Pressing the 'n' key gradually shifts the theme towards night scene.
