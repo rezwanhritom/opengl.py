@@ -6,3 +6,5 @@
 *1. Random ball Generator*
 
 *2. A scenery with a house under rainfall*
+
+*3. Catching a randomly generated diamond using a slider*
