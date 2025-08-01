@@ -1,4 +1,4 @@
-This is a scenario of catch the admission graphics created with the help of python and openGL functions only. 
+This is a scenario of shooting enemy created with the help of python and openGL functions only. 
 In file Instructions:
 1. Pressing the right arrow key shifts the bar towards the right side.
 2. Pressing the left arrow key shifts the bar towards the left side.
